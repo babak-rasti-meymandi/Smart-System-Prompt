@@ -4,11 +4,11 @@ This file is a working projection of the user's current context.
 
 ```text
 Primary Project: CCA
-Current Task: Consolidate the Reference CCA architecture and prepare controlled behavioral validation.
-Current Mode: Architecture Consolidation → Behavioral Validation
+Current Task: Diagnose B-04 persistence routing with the B-04.1 authority-boundary probe.
+Current Mode: Real-Model Behavioral Validation
 Related Projects:
 Reference Projects:
-Next Action: Verify the consolidated architecture, then resume behavioral testing.
+Next Action: Run B-04.1, preserve the unedited output, and classify the result before changing architecture.
 ```
 
 This is a working projection, not a replacement for authoritative project state or history.
